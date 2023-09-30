@@ -936,9 +936,10 @@ section {
 }
 
 .testimonials .testimonial-item .testimonial-img {
-  border-radius: 50%;
+  border-radius: 20%;
   border: 4px solid #fff;
   margin: 0 auto;
+  width: 30%;
 }
 
 .testimonials .testimonial-item h3 {
